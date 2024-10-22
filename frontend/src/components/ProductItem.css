@@ -1,0 +1,88 @@
+/* src/components/ProductItem.css */
+
+.product-card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow for depth */
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    width: 100%;
+    max-width: 300px;
+    margin: 15px;
+    text-align: center;
+  }
+  
+  .product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Enhanced shadow on hover */
+  }
+  
+  .product-image {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+  }
+  
+  .product-info {
+    padding: 15px;
+  }
+  
+  .product-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .product-price {
+    font-size: 16px;
+    color: #007bff; /* Bootstrap blue or adjust for your design */
+    font-weight: 600;
+    margin-bottom: 15px;
+  }
+  
+  .product-description {
+    font-size: 14px;
+    color: #777;
+    margin-bottom: 15px;
+  }
+  
+  .product-actions {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+    border-top: 1px solid #eee;
+  }
+  
+  .action-button {
+    padding: 10px 20px;
+    background-color: #007bff; /* Primary color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .action-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+  
+  .view-details-button {
+    background-color: #28a745; /* Green for view details */
+  }
+  
+  .view-details-button:hover {
+    background-color: #218838; /* Darker green on hover */
+  }
+  
+  @media (max-width: 768px) {
+    .product-card {
+      max-width: 100%; /* Full width on smaller screens */
+    }
+  
+    .product-image {
+      height: 200px;
+    }
+  }
+  

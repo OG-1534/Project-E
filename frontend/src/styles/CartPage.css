@@ -1,0 +1,22 @@
+/* CartPage.css */
+
+.cart-page {
+    padding: 2rem;
+  }
+  
+  .cart-item-img {
+    width: 100px;
+    height: auto;
+  }
+  
+  .cart-summary {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .checkout-button {
+    margin-left: 10px; /* Adjusts space between buttons */
+  }
+  
+  /* Additional custom styles if needed */

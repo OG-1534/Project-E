@@ -1,0 +1,13 @@
+.icon-lg {
+  font-size: 3rem;
+  color: #d4a5a5;
+}
+
+.card {
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
