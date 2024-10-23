@@ -1,25 +1,70 @@
-import os
 from together import Together
-from dotenv import load_dotenv 
+import os
+from dotenv import load_dotenv
+from utils.data_loader import load_image_from_url
+# from utils.data_loader import load_image_from_local
+from utils.preprocess import preprocess_image
 
-# Load environment variables
-load_dotenv()  
+# Load the environment variables from the .env file
+load_dotenv()
 
 # Access the API key
-api_key = os.environ.get("TOGETHER_API_KEY")
-if not api_key:
-    raise ValueError("API key is missing. Please set TOGETHER_API_KEY in your environment.")
+api_key = os.getenv("TOGETHER_API_KEY")
 
-# Initialize the Together client with the API key
+# Initialize the API key
 client = Together(api_key=api_key)
 
-# Make the API call
-stream = client.chat.completions.create(
-    model="meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
-    messages=[{"role": "user", "content": "What are some fun things to do in New York?"}],
-    stream=True,
+# Define the image path from your local machine
+# image_path = "path_to_your_local_image.jpg"
+
+# Load and base64-encode the image from local machine
+# encoded_image = load_image_from_local(image_path)
+
+# Call Together API with the image and text input
+response = client.chat.completions.create(
+    # model= "meta-llama/Llama-3.2-90B-Vision-Instruct-Turbo",
+    model="meta-llama/Llama-Vision-Free",
+    messages=[
+        {
+                "role": "system",
+                "content": "You are an experienced dermatologist with in-depth knowledge about every skin issue - answer directly about the skin issue, analyze carefully and its treatment. \nDo not talk about anything aside the skin diagnosis.\nThink carefully before answering.\nAct sure with the answer\nThink verbose.\nDo not refer them to a Dermatologist, you are the dermatologist.\nDo not answer any question if it is not about skin issue\n"
+        },
+        {
+                "role": "user",
+                "content": [
+                        {
+                                "type": "text",
+                                "text": "What's the skin diagnosis\n"
+                        },
+                        {
+                                "type": "image_url",
+                                "image_url": {
+                                        "url": "s3://together-ai-uploaded-user-images-prod/afe97ef5-5e22-4169-9fe5-7241b54c5f0b.jpg"
+                                }
+                        }
+                ]
+        }
+],
+    max_tokens=512,
+    temperature=0.4,
+    top_p=0.7,
+    top_k=5,
+    repetition_penalty=0,
+    stop=["<|eot_id|>","<|eom_id|>"],
+    stream=True
 )
 
-# Process and print the streaming response
-for chunk in stream:
-    print(chunk.choices[0].delta.content or "", end="", flush=True)
+# Handle the response stream
+try:
+    for token in response:
+        # Check if 'choices' exists and contains data
+        if hasattr(token, 'choices') and len(token.choices) > 0:
+            # Ensure 'delta' exists before accessing content
+            if hasattr(token.choices[0], 'delta') and hasattr(token.choices[0].delta, 'content'):
+                print(token.choices[0].delta.content, end='', flush=True)
+            else:
+                print("No content found in delta.")
+        else:
+            print("Choices not available in response.")
+except Exception as e:
+    print(f"Error during streaming: {e}")

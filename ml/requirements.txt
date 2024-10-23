@@ -1,3 +1,6 @@
 together
 datasets
 tensorflow
+numpy
+transformers
+flask

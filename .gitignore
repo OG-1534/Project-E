@@ -1,2 +1,5 @@
 node_modules/
 .env
+setup.py
+test.py
+utils/__pycache__/
