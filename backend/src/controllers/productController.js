@@ -35,11 +35,23 @@ exports.createProduct = async (req, res) => {
 
 // Get all products
 exports.getProducts = async (req, res) => {
+  const { page = 1, limit = 10 } = req.query;
   try {
-    const products = await Product.findAll();
-    res.status(200).json(products);
+    const offset = (page - 1) * limit;
+    const products = await Product.findAndCountAll({
+      limit: parseInt(limit),
+      offset: parseInt(offset),
+    });
+
+    res.status(200).json({
+      products: products.rows,
+      totalProducts: products.count,
+      totalPages: Math.ceil(products.count / limit),
+      currentPage: parseInt(page),
+    });
   } catch (error) {
-    res.status(500).json({ message: error.message });
+    console.error('Error fetching products:', error);
+    res.status(500).json({ message: 'Error fetching products' });
   }
 };
 

@@ -1,0 +1,1001 @@
+brand_id,product_name,description,price
+5,Highlighter 1,This is a description for Highlighter 1.,54.55
+1,Nail Polish 2,This is a description for Nail Polish 2.,62.41
+4,Hair Serum 3,This is a description for Hair Serum 3.,57.41
+2,Lip Balm 4,This is a description for Lip Balm 4.,26.79
+1,Clay Mask 5,This is a description for Clay Mask 5.,29.17
+2,Sunscreen 6,This is a description for Sunscreen 6.,29.89
+4,Body Scrub 7,This is a description for Body Scrub 7.,88.15
+5,Pore Strips 8,This is a description for Pore Strips 8.,18.64
+5,Makeup Remover 9,This is a description for Makeup Remover 9.,93.33
+3,Vitamin C Serum 10,This is a description for Vitamin C Serum 10.,91.3
+3,Pore Strips 11,This is a description for Pore Strips 11.,82.65
+5,Foot Cream 12,This is a description for Foot Cream 12.,90.69
+4,Hair Conditioner 13,This is a description for Hair Conditioner 13.,38.36
+1,Hand Cream 14,This is a description for Hand Cream 14.,19.98
+2,Sunscreen 15,This is a description for Sunscreen 15.,59.57
+4,Pore Strips 16,This is a description for Pore Strips 16.,34.03
+1,Acne Treatment 17,This is a description for Acne Treatment 17.,42.79
+3,Stretch Mark Cream 18,This is a description for Stretch Mark Cream 18.,30.43
+3,Facial Oil 19,This is a description for Facial Oil 19.,85.09
+3,Eye Cream 20,This is a description for Eye Cream 20.,41.32
+3,Lip Balm 21,This is a description for Lip Balm 21.,29.35
+1,Facial Oil 22,This is a description for Facial Oil 22.,42.03
+5,Eyeshadow 23,This is a description for Eyeshadow 23.,44.28
+4,Moisturizer 24,This is a description for Moisturizer 24.,22.04
+2,Lip Gloss 25,This is a description for Lip Gloss 25.,44.51
+5,Hair Conditioner 26,This is a description for Hair Conditioner 26.,98.14
+1,Toner 27,This is a description for Toner 27.,46.07
+1,Hair Conditioner 28,This is a description for Hair Conditioner 28.,10.66
+5,Foot Cream 29,This is a description for Foot Cream 29.,20.34
+1,Face Wash 30,This is a description for Face Wash 30.,32.05
+1,Blush 31,This is a description for Blush 31.,32.72
+4,Hydrating Gel 32,This is a description for Hydrating Gel 32.,61.67
+2,Deodorant 33,This is a description for Deodorant 33.,88.12
+2,Exfoliating Scrub 34,This is a description for Exfoliating Scrub 34.,20.21
+5,Hair Conditioner 35,This is a description for Hair Conditioner 35.,78.92
+3,Whitening Cream 36,This is a description for Whitening Cream 36.,19.23
+1,Blush 37,This is a description for Blush 37.,41.19
+1,Aftershave Balm 38,This is a description for Aftershave Balm 38.,27.83
+5,Blush 39,This is a description for Blush 39.,69.29
+1,Foundation 40,This is a description for Foundation 40.,22.16
+4,Serum 41,This is a description for Serum 41.,90.61
+5,Night Cream 42,This is a description for Night Cream 42.,24.22
+3,Stretch Mark Cream 43,This is a description for Stretch Mark Cream 43.,73.61
+3,Serum 44,This is a description for Serum 44.,34.75
+5,Facial Mist 45,This is a description for Facial Mist 45.,13.93
+3,Shampoo 46,This is a description for Shampoo 46.,62.56
+2,Acne Treatment 47,This is a description for Acne Treatment 47.,83.5
+1,Peeling Gel 48,This is a description for Peeling Gel 48.,67.53
+4,Makeup Remover 49,This is a description for Makeup Remover 49.,96.54
+1,Cleanser 50,This is a description for Cleanser 50.,14.48
+1,Aftershave Balm 51,This is a description for Aftershave Balm 51.,45.69
+4,Peeling Gel 52,This is a description for Peeling Gel 52.,24.39
+2,Night Cream 53,This is a description for Night Cream 53.,92.97
+3,Blush 54,This is a description for Blush 54.,44.72
+5,Pore Strips 55,This is a description for Pore Strips 55.,21.69
+3,Vitamin C Serum 56,This is a description for Vitamin C Serum 56.,39.42
+3,Eyeliner 57,This is a description for Eyeliner 57.,13.47
+5,Lip Balm 58,This is a description for Lip Balm 58.,5.77
+4,Foundation 59,This is a description for Foundation 59.,58.13
+2,Stretch Mark Cream 60,This is a description for Stretch Mark Cream 60.,11.17
+5,Eyeliner 61,This is a description for Eyeliner 61.,89.04
+3,Facial Mist 62,This is a description for Facial Mist 62.,69.98
+3,Serum 63,This is a description for Serum 63.,72.27
+3,Pore Strips 64,This is a description for Pore Strips 64.,76.21
+3,Moisturizer 65,This is a description for Moisturizer 65.,6.28
+3,Pore Strips 66,This is a description for Pore Strips 66.,31.44
+2,Stretch Mark Cream 67,This is a description for Stretch Mark Cream 67.,55.23
+4,Body Lotion 68,This is a description for Body Lotion 68.,48.14
+5,Mascara 69,This is a description for Mascara 69.,37.92
+2,Shampoo 70,This is a description for Shampoo 70.,8.92
+5,Deodorant 71,This is a description for Deodorant 71.,22.71
+3,Night Cream 72,This is a description for Night Cream 72.,85.97
+1,Day Cream 73,This is a description for Day Cream 73.,44.87
+1,Acne Treatment 74,This is a description for Acne Treatment 74.,13.84
+2,Concealer 75,This is a description for Concealer 75.,59.29
+3,Eye Cream 76,This is a description for Eye Cream 76.,84.86
+5,Deodorant 77,This is a description for Deodorant 77.,96.1
+4,Aftershave Balm 78,This is a description for Aftershave Balm 78.,9.44
+5,Body Scrub 79,This is a description for Body Scrub 79.,47.58
+3,Acne Treatment 80,This is a description for Acne Treatment 80.,10.84
+1,Acne Treatment 81,This is a description for Acne Treatment 81.,65.62
+2,Foot Cream 82,This is a description for Foot Cream 82.,95.03
+5,Whitening Cream 83,This is a description for Whitening Cream 83.,61.59
+3,Body Lotion 84,This is a description for Body Lotion 84.,63.96
+4,Facial Mist 85,This is a description for Facial Mist 85.,32.08
+3,Lip Gloss 86,This is a description for Lip Gloss 86.,13.26
+3,Hair Conditioner 87,This is a description for Hair Conditioner 87.,89.75
+3,Vitamin C Serum 88,This is a description for Vitamin C Serum 88.,18.41
+3,Foundation 89,This is a description for Foundation 89.,67.42
+3,Setting Spray 90,This is a description for Setting Spray 90.,76.28
+4,Hydrating Gel 91,This is a description for Hydrating Gel 91.,87.44
+4,Face Wash 92,This is a description for Face Wash 92.,58.57
+3,Eyeliner 93,This is a description for Eyeliner 93.,5.85
+2,Exfoliating Scrub 94,This is a description for Exfoliating Scrub 94.,91.0
+2,Makeup Remover 95,This is a description for Makeup Remover 95.,85.06
+4,Blush 96,This is a description for Blush 96.,77.8
+3,Foot Cream 97,This is a description for Foot Cream 97.,29.41
+4,Cleanser 98,This is a description for Cleanser 98.,9.22
+2,Hand Cream 99,This is a description for Hand Cream 99.,15.23
+2,Shampoo 100,This is a description for Shampoo 100.,24.69
+2,Serum 101,This is a description for Serum 101.,32.88
+5,Exfoliating Scrub 102,This is a description for Exfoliating Scrub 102.,92.26
+4,Exfoliating Scrub 103,This is a description for Exfoliating Scrub 103.,71.88
+5,Shampoo 104,This is a description for Shampoo 104.,77.09
+1,Hand Cream 105,This is a description for Hand Cream 105.,9.8
+1,Hand Cream 106,This is a description for Hand Cream 106.,91.46
+1,Bronzer 107,This is a description for Bronzer 107.,51.6
+5,Clay Mask 108,This is a description for Clay Mask 108.,16.63
+3,Hydrating Gel 109,This is a description for Hydrating Gel 109.,44.04
+5,Night Cream 110,This is a description for Night Cream 110.,99.97
+5,Eye Cream 111,This is a description for Eye Cream 111.,32.84
+5,Foot Cream 112,This is a description for Foot Cream 112.,93.73
+5,Hand Cream 113,This is a description for Hand Cream 113.,36.86
+5,Sunscreen 114,This is a description for Sunscreen 114.,96.82
+4,Concealer 115,This is a description for Concealer 115.,94.6
+3,Foot Cream 116,This is a description for Foot Cream 116.,50.97
+5,Concealer 117,This is a description for Concealer 117.,35.12
+4,Hand Cream 118,This is a description for Hand Cream 118.,58.58
+1,Eyeshadow 119,This is a description for Eyeshadow 119.,21.16
+1,Eyeliner 120,This is a description for Eyeliner 120.,83.66
+1,Pore Strips 121,This is a description for Pore Strips 121.,58.78
+2,Aftershave Balm 122,This is a description for Aftershave Balm 122.,11.25
+2,Brow Gel 123,This is a description for Brow Gel 123.,81.6
+2,Deodorant 124,This is a description for Deodorant 124.,20.21
+1,Foundation 125,This is a description for Foundation 125.,87.9
+2,Facial Mist 126,This is a description for Facial Mist 126.,43.83
+1,Shampoo 127,This is a description for Shampoo 127.,27.58
+3,Hair Serum 128,This is a description for Hair Serum 128.,12.72
+1,Hair Conditioner 129,This is a description for Hair Conditioner 129.,34.5
+2,Body Scrub 130,This is a description for Body Scrub 130.,72.86
+5,Face Wash 131,This is a description for Face Wash 131.,20.53
+4,Toner 132,This is a description for Toner 132.,9.79
+1,Bronzer 133,This is a description for Bronzer 133.,90.61
+4,Clay Mask 134,This is a description for Clay Mask 134.,32.59
+3,Hydrating Gel 135,This is a description for Hydrating Gel 135.,85.49
+4,Whitening Cream 136,This is a description for Whitening Cream 136.,53.09
+1,Face Wash 137,This is a description for Face Wash 137.,9.54
+1,Lipstick 138,This is a description for Lipstick 138.,67.06
+2,Vitamin C Serum 139,This is a description for Vitamin C Serum 139.,58.97
+2,Cleanser 140,This is a description for Cleanser 140.,24.79
+1,Shampoo 141,This is a description for Shampoo 141.,46.55
+5,Peeling Gel 142,This is a description for Peeling Gel 142.,44.86
+5,Facial Oil 143,This is a description for Facial Oil 143.,66.99
+5,Toner 144,This is a description for Toner 144.,58.68
+4,Day Cream 145,This is a description for Day Cream 145.,46.64
+4,Highlighter 146,This is a description for Highlighter 146.,89.17
+3,Highlighter 147,This is a description for Highlighter 147.,55.88
+2,Nail Polish 148,This is a description for Nail Polish 148.,53.07
+3,Peeling Gel 149,This is a description for Peeling Gel 149.,51.87
+5,Hair Serum 150,This is a description for Hair Serum 150.,24.74
+1,Mascara 151,This is a description for Mascara 151.,44.17
+3,Hand Cream 152,This is a description for Hand Cream 152.,6.26
+5,Brow Gel 153,This is a description for Brow Gel 153.,47.42
+1,Foot Cream 154,This is a description for Foot Cream 154.,44.78
+2,Acne Treatment 155,This is a description for Acne Treatment 155.,7.52
+2,Whitening Cream 156,This is a description for Whitening Cream 156.,94.38
+5,Hair Serum 157,This is a description for Hair Serum 157.,88.52
+5,Mascara 158,This is a description for Mascara 158.,18.87
+1,Nail Polish 159,This is a description for Nail Polish 159.,62.28
+5,Hair Conditioner 160,This is a description for Hair Conditioner 160.,56.49
+2,Acne Treatment 161,This is a description for Acne Treatment 161.,76.09
+1,Body Scrub 162,This is a description for Body Scrub 162.,66.08
+3,Bronzer 163,This is a description for Bronzer 163.,72.41
+2,Whitening Cream 164,This is a description for Whitening Cream 164.,21.55
+5,Foot Cream 165,This is a description for Foot Cream 165.,95.09
+3,Day Cream 166,This is a description for Day Cream 166.,37.11
+4,Peeling Gel 167,This is a description for Peeling Gel 167.,45.96
+1,Night Cream 168,This is a description for Night Cream 168.,21.08
+5,Eye Cream 169,This is a description for Eye Cream 169.,68.23
+4,Moisturizer 170,This is a description for Moisturizer 170.,11.16
+2,Bronzer 171,This is a description for Bronzer 171.,85.71
+5,Brow Gel 172,This is a description for Brow Gel 172.,22.6
+3,Moisturizer 173,This is a description for Moisturizer 173.,10.5
+3,Highlighter 174,This is a description for Highlighter 174.,32.9
+2,Night Cream 175,This is a description for Night Cream 175.,10.15
+1,Facial Mist 176,This is a description for Facial Mist 176.,36.94
+2,Lip Gloss 177,This is a description for Lip Gloss 177.,90.11
+3,Day Cream 178,This is a description for Day Cream 178.,46.81
+5,Aftershave Balm 179,This is a description for Aftershave Balm 179.,15.69
+3,Facial Mist 180,This is a description for Facial Mist 180.,43.88
+5,Setting Spray 181,This is a description for Setting Spray 181.,43.5
+1,Peeling Gel 182,This is a description for Peeling Gel 182.,81.23
+3,Blush 183,This is a description for Blush 183.,68.73
+5,Foot Cream 184,This is a description for Foot Cream 184.,57.91
+3,Toner 185,This is a description for Toner 185.,73.37
+4,Night Cream 186,This is a description for Night Cream 186.,71.57
+4,Aftershave Balm 187,This is a description for Aftershave Balm 187.,95.69
+3,Mascara 188,This is a description for Mascara 188.,65.16
+1,Hand Cream 189,This is a description for Hand Cream 189.,45.21
+5,Facial Oil 190,This is a description for Facial Oil 190.,99.26
+3,Blush 191,This is a description for Blush 191.,67.31
+5,Eyeliner 192,This is a description for Eyeliner 192.,20.61
+5,Eyeshadow 193,This is a description for Eyeshadow 193.,64.4
+3,Hand Cream 194,This is a description for Hand Cream 194.,24.58
+2,Vitamin C Serum 195,This is a description for Vitamin C Serum 195.,12.97
+3,Day Cream 196,This is a description for Day Cream 196.,9.81
+3,Highlighter 197,This is a description for Highlighter 197.,36.53
+2,Body Lotion 198,This is a description for Body Lotion 198.,65.77
+3,Deodorant 199,This is a description for Deodorant 199.,85.42
+5,Cleanser 200,This is a description for Cleanser 200.,55.33
+2,Lip Gloss 201,This is a description for Lip Gloss 201.,89.75
+4,Body Lotion 202,This is a description for Body Lotion 202.,88.79
+4,Shampoo 203,This is a description for Shampoo 203.,88.93
+2,Night Cream 204,This is a description for Night Cream 204.,56.93
+5,Night Cream 205,This is a description for Night Cream 205.,31.02
+2,Whitening Cream 206,This is a description for Whitening Cream 206.,46.97
+5,Clay Mask 207,This is a description for Clay Mask 207.,65.62
+4,Shampoo 208,This is a description for Shampoo 208.,37.27
+4,Eyeliner 209,This is a description for Eyeliner 209.,53.92
+5,Facial Mist 210,This is a description for Facial Mist 210.,69.88
+3,Cleanser 211,This is a description for Cleanser 211.,81.47
+5,Moisturizer 212,This is a description for Moisturizer 212.,21.13
+5,Shampoo 213,This is a description for Shampoo 213.,71.12
+4,Facial Oil 214,This is a description for Facial Oil 214.,62.47
+1,Eyeliner 215,This is a description for Eyeliner 215.,83.14
+5,Eye Cream 216,This is a description for Eye Cream 216.,85.18
+1,Lip Balm 217,This is a description for Lip Balm 217.,75.5
+2,Foundation 218,This is a description for Foundation 218.,19.63
+3,Blush 219,This is a description for Blush 219.,66.54
+2,Facial Oil 220,This is a description for Facial Oil 220.,6.75
+3,Hair Serum 221,This is a description for Hair Serum 221.,47.14
+3,Facial Oil 222,This is a description for Facial Oil 222.,59.97
+5,Vitamin C Serum 223,This is a description for Vitamin C Serum 223.,7.42
+1,Acne Treatment 224,This is a description for Acne Treatment 224.,48.8
+3,Serum 225,This is a description for Serum 225.,94.27
+3,Whitening Cream 226,This is a description for Whitening Cream 226.,97.03
+2,Stretch Mark Cream 227,This is a description for Stretch Mark Cream 227.,65.76
+5,Setting Spray 228,This is a description for Setting Spray 228.,65.77
+4,Hydrating Gel 229,This is a description for Hydrating Gel 229.,79.15
+5,Deodorant 230,This is a description for Deodorant 230.,36.9
+5,Body Lotion 231,This is a description for Body Lotion 231.,45.26
+5,Hydrating Gel 232,This is a description for Hydrating Gel 232.,25.25
+1,Concealer 233,This is a description for Concealer 233.,94.93
+3,Pore Strips 234,This is a description for Pore Strips 234.,12.93
+2,Lip Gloss 235,This is a description for Lip Gloss 235.,52.57
+2,Hair Conditioner 236,This is a description for Hair Conditioner 236.,93.83
+5,Bronzer 237,This is a description for Bronzer 237.,96.64
+4,Hair Conditioner 238,This is a description for Hair Conditioner 238.,34.53
+4,Eyeliner 239,This is a description for Eyeliner 239.,5.52
+4,Stretch Mark Cream 240,This is a description for Stretch Mark Cream 240.,9.58
+3,Moisturizer 241,This is a description for Moisturizer 241.,81.03
+5,Eye Cream 242,This is a description for Eye Cream 242.,37.68
+5,Serum 243,This is a description for Serum 243.,63.38
+4,Lipstick 244,This is a description for Lipstick 244.,35.64
+4,Hair Serum 245,This is a description for Hair Serum 245.,78.94
+5,Face Wash 246,This is a description for Face Wash 246.,61.98
+2,Eyeliner 247,This is a description for Eyeliner 247.,9.49
+2,Facial Mist 248,This is a description for Facial Mist 248.,47.9
+1,Pore Strips 249,This is a description for Pore Strips 249.,80.81
+3,Body Lotion 250,This is a description for Body Lotion 250.,80.88
+4,Hydrating Gel 251,This is a description for Hydrating Gel 251.,96.3
+3,Highlighter 252,This is a description for Highlighter 252.,51.85
+5,Peeling Gel 253,This is a description for Peeling Gel 253.,13.3
+1,Night Cream 254,This is a description for Night Cream 254.,22.16
+5,Lip Gloss 255,This is a description for Lip Gloss 255.,84.44
+1,Hair Conditioner 256,This is a description for Hair Conditioner 256.,65.41
+3,Eyeliner 257,This is a description for Eyeliner 257.,76.48
+5,Lipstick 258,This is a description for Lipstick 258.,87.6
+4,Body Lotion 259,This is a description for Body Lotion 259.,65.65
+4,Brow Gel 260,This is a description for Brow Gel 260.,66.61
+4,Eyeshadow 261,This is a description for Eyeshadow 261.,91.66
+3,Facial Mist 262,This is a description for Facial Mist 262.,62.87
+1,Highlighter 263,This is a description for Highlighter 263.,93.03
+5,Toner 264,This is a description for Toner 264.,81.61
+5,Lipstick 265,This is a description for Lipstick 265.,13.85
+2,Facial Oil 266,This is a description for Facial Oil 266.,91.78
+1,Brow Gel 267,This is a description for Brow Gel 267.,56.42
+2,Aftershave Balm 268,This is a description for Aftershave Balm 268.,27.02
+4,Body Scrub 269,This is a description for Body Scrub 269.,12.63
+4,Hydrating Gel 270,This is a description for Hydrating Gel 270.,10.27
+4,Pore Strips 271,This is a description for Pore Strips 271.,41.81
+4,Whitening Cream 272,This is a description for Whitening Cream 272.,83.84
+4,Foundation 273,This is a description for Foundation 273.,40.6
+3,Moisturizer 274,This is a description for Moisturizer 274.,72.38
+2,Setting Spray 275,This is a description for Setting Spray 275.,33.68
+3,Body Lotion 276,This is a description for Body Lotion 276.,70.25
+5,Moisturizer 277,This is a description for Moisturizer 277.,29.47
+2,Hair Conditioner 278,This is a description for Hair Conditioner 278.,35.29
+5,Makeup Remover 279,This is a description for Makeup Remover 279.,45.53
+1,Eyeliner 280,This is a description for Eyeliner 280.,61.6
+4,Day Cream 281,This is a description for Day Cream 281.,63.05
+5,Brow Gel 282,This is a description for Brow Gel 282.,61.65
+3,Cleanser 283,This is a description for Cleanser 283.,76.42
+4,Eye Cream 284,This is a description for Eye Cream 284.,38.39
+4,Deodorant 285,This is a description for Deodorant 285.,64.44
+5,Face Wash 286,This is a description for Face Wash 286.,77.96
+3,Hair Serum 287,This is a description for Hair Serum 287.,26.31
+5,Foundation 288,This is a description for Foundation 288.,44.84
+1,Hand Cream 289,This is a description for Hand Cream 289.,9.78
+1,Day Cream 290,This is a description for Day Cream 290.,59.33
+4,Body Scrub 291,This is a description for Body Scrub 291.,77.07
+2,Foot Cream 292,This is a description for Foot Cream 292.,84.98
+4,Vitamin C Serum 293,This is a description for Vitamin C Serum 293.,50.65
+5,Body Scrub 294,This is a description for Body Scrub 294.,76.36
+1,Hydrating Gel 295,This is a description for Hydrating Gel 295.,83.53
+5,Lip Balm 296,This is a description for Lip Balm 296.,99.32
+1,Mascara 297,This is a description for Mascara 297.,70.53
+1,Bronzer 298,This is a description for Bronzer 298.,94.35
+3,Body Scrub 299,This is a description for Body Scrub 299.,80.14
+3,Highlighter 300,This is a description for Highlighter 300.,64.09
+3,Face Wash 301,This is a description for Face Wash 301.,54.21
+4,Eyeliner 302,This is a description for Eyeliner 302.,90.4
+4,Toner 303,This is a description for Toner 303.,23.3
+5,Acne Treatment 304,This is a description for Acne Treatment 304.,62.75
+5,Eyeliner 305,This is a description for Eyeliner 305.,66.72
+4,Acne Treatment 306,This is a description for Acne Treatment 306.,43.21
+3,Facial Mist 307,This is a description for Facial Mist 307.,40.89
+1,Highlighter 308,This is a description for Highlighter 308.,9.56
+1,Blush 309,This is a description for Blush 309.,88.72
+4,Lip Balm 310,This is a description for Lip Balm 310.,74.43
+3,Nail Polish 311,This is a description for Nail Polish 311.,21.24
+5,Peeling Gel 312,This is a description for Peeling Gel 312.,76.99
+5,Body Lotion 313,This is a description for Body Lotion 313.,8.69
+1,Setting Spray 314,This is a description for Setting Spray 314.,31.65
+2,Sunscreen 315,This is a description for Sunscreen 315.,70.45
+2,Sunscreen 316,This is a description for Sunscreen 316.,61.0
+2,Body Scrub 317,This is a description for Body Scrub 317.,60.72
+3,Highlighter 318,This is a description for Highlighter 318.,38.05
+1,Aftershave Balm 319,This is a description for Aftershave Balm 319.,49.47
+2,Highlighter 320,This is a description for Highlighter 320.,76.22
+3,Concealer 321,This is a description for Concealer 321.,98.4
+3,Brow Gel 322,This is a description for Brow Gel 322.,20.86
+4,Deodorant 323,This is a description for Deodorant 323.,95.93
+1,Pore Strips 324,This is a description for Pore Strips 324.,16.95
+4,Stretch Mark Cream 325,This is a description for Stretch Mark Cream 325.,28.43
+4,Bronzer 326,This is a description for Bronzer 326.,18.3
+2,Hair Conditioner 327,This is a description for Hair Conditioner 327.,60.17
+2,Lip Gloss 328,This is a description for Lip Gloss 328.,13.55
+2,Lip Gloss 329,This is a description for Lip Gloss 329.,11.05
+5,Sunscreen 330,This is a description for Sunscreen 330.,32.69
+5,Hand Cream 331,This is a description for Hand Cream 331.,24.42
+3,Toner 332,This is a description for Toner 332.,29.83
+5,Serum 333,This is a description for Serum 333.,43.5
+5,Hydrating Gel 334,This is a description for Hydrating Gel 334.,90.55
+4,Nail Polish 335,This is a description for Nail Polish 335.,35.02
+2,Lipstick 336,This is a description for Lipstick 336.,96.67
+5,Facial Oil 337,This is a description for Facial Oil 337.,54.21
+4,Peeling Gel 338,This is a description for Peeling Gel 338.,63.01
+2,Hair Conditioner 339,This is a description for Hair Conditioner 339.,21.69
+3,Cleanser 340,This is a description for Cleanser 340.,24.44
+3,Sunscreen 341,This is a description for Sunscreen 341.,12.91
+3,Vitamin C Serum 342,This is a description for Vitamin C Serum 342.,61.02
+5,Lipstick 343,This is a description for Lipstick 343.,98.39
+4,Foot Cream 344,This is a description for Foot Cream 344.,22.76
+2,Stretch Mark Cream 345,This is a description for Stretch Mark Cream 345.,31.64
+3,Makeup Remover 346,This is a description for Makeup Remover 346.,84.79
+2,Hair Serum 347,This is a description for Hair Serum 347.,50.03
+5,Night Cream 348,This is a description for Night Cream 348.,93.21
+3,Deodorant 349,This is a description for Deodorant 349.,14.61
+3,Day Cream 350,This is a description for Day Cream 350.,15.45
+2,Shampoo 351,This is a description for Shampoo 351.,69.99
+4,Pore Strips 352,This is a description for Pore Strips 352.,68.05
+3,Eyeliner 353,This is a description for Eyeliner 353.,84.22
+2,Brow Gel 354,This is a description for Brow Gel 354.,48.39
+5,Concealer 355,This is a description for Concealer 355.,76.2
+3,Moisturizer 356,This is a description for Moisturizer 356.,80.89
+2,Acne Treatment 357,This is a description for Acne Treatment 357.,64.69
+4,Mascara 358,This is a description for Mascara 358.,24.71
+1,Body Lotion 359,This is a description for Body Lotion 359.,25.77
+1,Lip Balm 360,This is a description for Lip Balm 360.,65.81
+2,Day Cream 361,This is a description for Day Cream 361.,84.42
+1,Body Lotion 362,This is a description for Body Lotion 362.,17.0
+3,Hair Serum 363,This is a description for Hair Serum 363.,64.14
+2,Eye Cream 364,This is a description for Eye Cream 364.,83.8
+2,Lip Gloss 365,This is a description for Lip Gloss 365.,85.98
+2,Face Wash 366,This is a description for Face Wash 366.,77.63
+4,Aftershave Balm 367,This is a description for Aftershave Balm 367.,89.9
+1,Stretch Mark Cream 368,This is a description for Stretch Mark Cream 368.,60.8
+2,Lip Balm 369,This is a description for Lip Balm 369.,19.54
+2,Day Cream 370,This is a description for Day Cream 370.,21.83
+1,Bronzer 371,This is a description for Bronzer 371.,8.68
+5,Exfoliating Scrub 372,This is a description for Exfoliating Scrub 372.,99.9
+3,Face Wash 373,This is a description for Face Wash 373.,76.34
+3,Sunscreen 374,This is a description for Sunscreen 374.,63.37
+2,Aftershave Balm 375,This is a description for Aftershave Balm 375.,71.99
+2,Aftershave Balm 376,This is a description for Aftershave Balm 376.,43.42
+5,Blush 377,This is a description for Blush 377.,63.4
+2,Sunscreen 378,This is a description for Sunscreen 378.,31.06
+2,Vitamin C Serum 379,This is a description for Vitamin C Serum 379.,83.32
+3,Peeling Gel 380,This is a description for Peeling Gel 380.,98.24
+5,Bronzer 381,This is a description for Bronzer 381.,8.76
+4,Eyeshadow 382,This is a description for Eyeshadow 382.,60.84
+1,Peeling Gel 383,This is a description for Peeling Gel 383.,80.43
+4,Acne Treatment 384,This is a description for Acne Treatment 384.,23.79
+4,Lip Gloss 385,This is a description for Lip Gloss 385.,69.33
+5,Whitening Cream 386,This is a description for Whitening Cream 386.,52.08
+4,Sunscreen 387,This is a description for Sunscreen 387.,73.67
+2,Makeup Remover 388,This is a description for Makeup Remover 388.,10.43
+4,Acne Treatment 389,This is a description for Acne Treatment 389.,68.68
+5,Brow Gel 390,This is a description for Brow Gel 390.,84.05
+5,Eyeliner 391,This is a description for Eyeliner 391.,48.05
+3,Lip Gloss 392,This is a description for Lip Gloss 392.,46.57
+5,Bronzer 393,This is a description for Bronzer 393.,94.15
+1,Hair Conditioner 394,This is a description for Hair Conditioner 394.,67.4
+1,Moisturizer 395,This is a description for Moisturizer 395.,85.34
+1,Hydrating Gel 396,This is a description for Hydrating Gel 396.,82.87
+2,Lip Gloss 397,This is a description for Lip Gloss 397.,38.25
+4,Facial Mist 398,This is a description for Facial Mist 398.,52.76
+4,Stretch Mark Cream 399,This is a description for Stretch Mark Cream 399.,46.64
+1,Eye Cream 400,This is a description for Eye Cream 400.,77.07
+3,Stretch Mark Cream 401,This is a description for Stretch Mark Cream 401.,70.16
+2,Exfoliating Scrub 402,This is a description for Exfoliating Scrub 402.,59.71
+3,Serum 403,This is a description for Serum 403.,41.7
+4,Moisturizer 404,This is a description for Moisturizer 404.,70.22
+3,Clay Mask 405,This is a description for Clay Mask 405.,71.12
+1,Eyeshadow 406,This is a description for Eyeshadow 406.,24.42
+5,Exfoliating Scrub 407,This is a description for Exfoliating Scrub 407.,12.83
+3,Lipstick 408,This is a description for Lipstick 408.,95.76
+3,Makeup Remover 409,This is a description for Makeup Remover 409.,52.78
+5,Concealer 410,This is a description for Concealer 410.,59.92
+4,Cleanser 411,This is a description for Cleanser 411.,93.25
+4,Lip Gloss 412,This is a description for Lip Gloss 412.,49.18
+1,Shampoo 413,This is a description for Shampoo 413.,78.33
+1,Bronzer 414,This is a description for Bronzer 414.,86.27
+2,Stretch Mark Cream 415,This is a description for Stretch Mark Cream 415.,17.8
+5,Lip Balm 416,This is a description for Lip Balm 416.,85.64
+5,Eyeliner 417,This is a description for Eyeliner 417.,40.95
+5,Hand Cream 418,This is a description for Hand Cream 418.,7.79
+3,Brow Gel 419,This is a description for Brow Gel 419.,35.39
+2,Lip Gloss 420,This is a description for Lip Gloss 420.,46.81
+1,Facial Oil 421,This is a description for Facial Oil 421.,40.43
+5,Brow Gel 422,This is a description for Brow Gel 422.,23.69
+2,Hydrating Gel 423,This is a description for Hydrating Gel 423.,9.67
+3,Moisturizer 424,This is a description for Moisturizer 424.,30.56
+4,Hand Cream 425,This is a description for Hand Cream 425.,40.96
+1,Brow Gel 426,This is a description for Brow Gel 426.,45.29
+2,Nail Polish 427,This is a description for Nail Polish 427.,7.43
+1,Deodorant 428,This is a description for Deodorant 428.,62.55
+3,Eye Cream 429,This is a description for Eye Cream 429.,20.63
+2,Night Cream 430,This is a description for Night Cream 430.,78.36
+2,Eyeshadow 431,This is a description for Eyeshadow 431.,24.52
+5,Facial Mist 432,This is a description for Facial Mist 432.,42.65
+4,Brow Gel 433,This is a description for Brow Gel 433.,44.52
+1,Whitening Cream 434,This is a description for Whitening Cream 434.,75.63
+4,Body Scrub 435,This is a description for Body Scrub 435.,90.32
+3,Face Wash 436,This is a description for Face Wash 436.,84.25
+2,Concealer 437,This is a description for Concealer 437.,21.37
+1,Setting Spray 438,This is a description for Setting Spray 438.,94.17
+2,Setting Spray 439,This is a description for Setting Spray 439.,81.59
+3,Exfoliating Scrub 440,This is a description for Exfoliating Scrub 440.,98.39
+2,Hair Conditioner 441,This is a description for Hair Conditioner 441.,47.47
+1,Hair Serum 442,This is a description for Hair Serum 442.,49.55
+3,Toner 443,This is a description for Toner 443.,65.51
+3,Exfoliating Scrub 444,This is a description for Exfoliating Scrub 444.,44.05
+2,Stretch Mark Cream 445,This is a description for Stretch Mark Cream 445.,44.73
+4,Hair Conditioner 446,This is a description for Hair Conditioner 446.,29.88
+3,Foundation 447,This is a description for Foundation 447.,62.03
+5,Whitening Cream 448,This is a description for Whitening Cream 448.,88.23
+4,Hydrating Gel 449,This is a description for Hydrating Gel 449.,16.18
+4,Face Wash 450,This is a description for Face Wash 450.,43.84
+5,Lip Balm 451,This is a description for Lip Balm 451.,25.18
+3,Serum 452,This is a description for Serum 452.,53.27
+3,Lipstick 453,This is a description for Lipstick 453.,95.73
+2,Body Scrub 454,This is a description for Body Scrub 454.,30.82
+5,Concealer 455,This is a description for Concealer 455.,11.72
+1,Brow Gel 456,This is a description for Brow Gel 456.,17.65
+1,Lip Balm 457,This is a description for Lip Balm 457.,32.95
+4,Moisturizer 458,This is a description for Moisturizer 458.,46.42
+3,Eye Cream 459,This is a description for Eye Cream 459.,98.54
+3,Hand Cream 460,This is a description for Hand Cream 460.,33.01
+2,Foundation 461,This is a description for Foundation 461.,45.34
+4,Facial Mist 462,This is a description for Facial Mist 462.,65.57
+2,Shampoo 463,This is a description for Shampoo 463.,89.82
+2,Nail Polish 464,This is a description for Nail Polish 464.,91.57
+1,Stretch Mark Cream 465,This is a description for Stretch Mark Cream 465.,73.42
+4,Setting Spray 466,This is a description for Setting Spray 466.,78.49
+4,Pore Strips 467,This is a description for Pore Strips 467.,45.33
+3,Mascara 468,This is a description for Mascara 468.,77.24
+5,Setting Spray 469,This is a description for Setting Spray 469.,93.75
+3,Facial Oil 470,This is a description for Facial Oil 470.,47.25
+4,Acne Treatment 471,This is a description for Acne Treatment 471.,54.74
+5,Hair Serum 472,This is a description for Hair Serum 472.,91.77
+4,Moisturizer 473,This is a description for Moisturizer 473.,95.54
+5,Mascara 474,This is a description for Mascara 474.,14.62
+5,Nail Polish 475,This is a description for Nail Polish 475.,98.21
+1,Body Scrub 476,This is a description for Body Scrub 476.,88.51
+3,Nail Polish 477,This is a description for Nail Polish 477.,97.48
+2,Eye Cream 478,This is a description for Eye Cream 478.,55.75
+4,Concealer 479,This is a description for Concealer 479.,27.99
+5,Nail Polish 480,This is a description for Nail Polish 480.,60.37
+5,Eye Cream 481,This is a description for Eye Cream 481.,98.89
+4,Body Lotion 482,This is a description for Body Lotion 482.,31.3
+3,Bronzer 483,This is a description for Bronzer 483.,91.05
+3,Toner 484,This is a description for Toner 484.,78.55
+4,Brow Gel 485,This is a description for Brow Gel 485.,99.76
+1,Pore Strips 486,This is a description for Pore Strips 486.,81.55
+2,Clay Mask 487,This is a description for Clay Mask 487.,56.87
+1,Acne Treatment 488,This is a description for Acne Treatment 488.,17.45
+5,Hair Conditioner 489,This is a description for Hair Conditioner 489.,37.78
+5,Hand Cream 490,This is a description for Hand Cream 490.,57.04
+5,Brow Gel 491,This is a description for Brow Gel 491.,32.79
+1,Eyeliner 492,This is a description for Eyeliner 492.,6.13
+3,Mascara 493,This is a description for Mascara 493.,46.61
+2,Stretch Mark Cream 494,This is a description for Stretch Mark Cream 494.,17.65
+4,Aftershave Balm 495,This is a description for Aftershave Balm 495.,89.44
+2,Setting Spray 496,This is a description for Setting Spray 496.,9.43
+2,Whitening Cream 497,This is a description for Whitening Cream 497.,48.73
+3,Lip Gloss 498,This is a description for Lip Gloss 498.,52.59
+2,Highlighter 499,This is a description for Highlighter 499.,74.61
+4,Eyeliner 500,This is a description for Eyeliner 500.,30.44
+2,Brow Gel 501,This is a description for Brow Gel 501.,72.58
+2,Face Wash 502,This is a description for Face Wash 502.,84.62
+4,Hydrating Gel 503,This is a description for Hydrating Gel 503.,45.8
+4,Nail Polish 504,This is a description for Nail Polish 504.,87.01
+1,Hair Serum 505,This is a description for Hair Serum 505.,31.07
+3,Makeup Remover 506,This is a description for Makeup Remover 506.,99.46
+4,Vitamin C Serum 507,This is a description for Vitamin C Serum 507.,61.96
+2,Body Scrub 508,This is a description for Body Scrub 508.,18.34
+3,Exfoliating Scrub 509,This is a description for Exfoliating Scrub 509.,7.4
+5,Night Cream 510,This is a description for Night Cream 510.,19.18
+1,Whitening Cream 511,This is a description for Whitening Cream 511.,85.2
+1,Eyeshadow 512,This is a description for Eyeshadow 512.,67.1
+4,Aftershave Balm 513,This is a description for Aftershave Balm 513.,55.7
+1,Foundation 514,This is a description for Foundation 514.,85.77
+1,Hair Serum 515,This is a description for Hair Serum 515.,27.42
+3,Stretch Mark Cream 516,This is a description for Stretch Mark Cream 516.,15.21
+3,Foundation 517,This is a description for Foundation 517.,63.0
+5,Pore Strips 518,This is a description for Pore Strips 518.,24.93
+4,Moisturizer 519,This is a description for Moisturizer 519.,17.82
+4,Moisturizer 520,This is a description for Moisturizer 520.,67.19
+3,Lipstick 521,This is a description for Lipstick 521.,14.24
+4,Face Wash 522,This is a description for Face Wash 522.,33.13
+4,Eyeshadow 523,This is a description for Eyeshadow 523.,32.81
+5,Whitening Cream 524,This is a description for Whitening Cream 524.,30.14
+1,Body Scrub 525,This is a description for Body Scrub 525.,37.3
+2,Pore Strips 526,This is a description for Pore Strips 526.,30.89
+4,Sunscreen 527,This is a description for Sunscreen 527.,68.58
+4,Shampoo 528,This is a description for Shampoo 528.,10.96
+1,Aftershave Balm 529,This is a description for Aftershave Balm 529.,52.55
+3,Foundation 530,This is a description for Foundation 530.,12.15
+5,Makeup Remover 531,This is a description for Makeup Remover 531.,42.53
+1,Serum 532,This is a description for Serum 532.,21.97
+4,Brow Gel 533,This is a description for Brow Gel 533.,73.7
+1,Pore Strips 534,This is a description for Pore Strips 534.,67.95
+2,Pore Strips 535,This is a description for Pore Strips 535.,21.29
+4,Lip Balm 536,This is a description for Lip Balm 536.,19.4
+3,Deodorant 537,This is a description for Deodorant 537.,75.53
+2,Face Wash 538,This is a description for Face Wash 538.,67.22
+4,Day Cream 539,This is a description for Day Cream 539.,14.66
+5,Facial Mist 540,This is a description for Facial Mist 540.,22.78
+2,Hand Cream 541,This is a description for Hand Cream 541.,81.64
+4,Toner 542,This is a description for Toner 542.,75.05
+3,Highlighter 543,This is a description for Highlighter 543.,94.54
+3,Concealer 544,This is a description for Concealer 544.,49.08
+5,Makeup Remover 545,This is a description for Makeup Remover 545.,8.57
+4,Body Lotion 546,This is a description for Body Lotion 546.,84.41
+3,Eyeshadow 547,This is a description for Eyeshadow 547.,41.4
+4,Hair Conditioner 548,This is a description for Hair Conditioner 548.,74.81
+5,Serum 549,This is a description for Serum 549.,94.68
+1,Face Wash 550,This is a description for Face Wash 550.,24.65
+3,Lipstick 551,This is a description for Lipstick 551.,73.64
+5,Night Cream 552,This is a description for Night Cream 552.,83.66
+2,Foundation 553,This is a description for Foundation 553.,75.82
+4,Lip Gloss 554,This is a description for Lip Gloss 554.,36.99
+3,Cleanser 555,This is a description for Cleanser 555.,52.03
+3,Brow Gel 556,This is a description for Brow Gel 556.,90.94
+4,Bronzer 557,This is a description for Bronzer 557.,55.13
+4,Pore Strips 558,This is a description for Pore Strips 558.,19.5
+2,Face Wash 559,This is a description for Face Wash 559.,12.88
+2,Brow Gel 560,This is a description for Brow Gel 560.,31.14
+4,Eyeliner 561,This is a description for Eyeliner 561.,54.82
+5,Concealer 562,This is a description for Concealer 562.,23.58
+2,Makeup Remover 563,This is a description for Makeup Remover 563.,11.78
+3,Day Cream 564,This is a description for Day Cream 564.,80.43
+2,Hair Serum 565,This is a description for Hair Serum 565.,84.97
+4,Eye Cream 566,This is a description for Eye Cream 566.,9.46
+1,Serum 567,This is a description for Serum 567.,24.74
+2,Mascara 568,This is a description for Mascara 568.,62.33
+5,Cleanser 569,This is a description for Cleanser 569.,49.85
+5,Toner 570,This is a description for Toner 570.,16.32
+1,Facial Mist 571,This is a description for Facial Mist 571.,63.14
+5,Body Lotion 572,This is a description for Body Lotion 572.,89.06
+3,Hydrating Gel 573,This is a description for Hydrating Gel 573.,93.7
+3,Eyeshadow 574,This is a description for Eyeshadow 574.,83.57
+4,Lip Balm 575,This is a description for Lip Balm 575.,66.63
+1,Deodorant 576,This is a description for Deodorant 576.,79.95
+5,Brow Gel 577,This is a description for Brow Gel 577.,52.79
+2,Aftershave Balm 578,This is a description for Aftershave Balm 578.,67.48
+5,Hand Cream 579,This is a description for Hand Cream 579.,65.69
+5,Deodorant 580,This is a description for Deodorant 580.,5.66
+1,Bronzer 581,This is a description for Bronzer 581.,70.94
+2,Body Scrub 582,This is a description for Body Scrub 582.,70.96
+4,Sunscreen 583,This is a description for Sunscreen 583.,12.17
+1,Acne Treatment 584,This is a description for Acne Treatment 584.,36.59
+2,Facial Mist 585,This is a description for Facial Mist 585.,22.66
+5,Foundation 586,This is a description for Foundation 586.,12.92
+4,Mascara 587,This is a description for Mascara 587.,88.4
+1,Makeup Remover 588,This is a description for Makeup Remover 588.,48.37
+4,Brow Gel 589,This is a description for Brow Gel 589.,83.59
+1,Nail Polish 590,This is a description for Nail Polish 590.,11.92
+1,Mascara 591,This is a description for Mascara 591.,66.15
+1,Stretch Mark Cream 592,This is a description for Stretch Mark Cream 592.,6.0
+1,Hand Cream 593,This is a description for Hand Cream 593.,71.58
+1,Foot Cream 594,This is a description for Foot Cream 594.,65.22
+1,Lipstick 595,This is a description for Lipstick 595.,18.58
+5,Deodorant 596,This is a description for Deodorant 596.,37.98
+2,Eye Cream 597,This is a description for Eye Cream 597.,36.96
+5,Toner 598,This is a description for Toner 598.,74.72
+2,Eye Cream 599,This is a description for Eye Cream 599.,39.81
+3,Vitamin C Serum 600,This is a description for Vitamin C Serum 600.,83.03
+5,Deodorant 601,This is a description for Deodorant 601.,92.13
+4,Lip Gloss 602,This is a description for Lip Gloss 602.,19.45
+2,Deodorant 603,This is a description for Deodorant 603.,20.87
+4,Foundation 604,This is a description for Foundation 604.,90.48
+4,Cleanser 605,This is a description for Cleanser 605.,61.94
+5,Stretch Mark Cream 606,This is a description for Stretch Mark Cream 606.,96.18
+1,Setting Spray 607,This is a description for Setting Spray 607.,80.45
+1,Mascara 608,This is a description for Mascara 608.,89.07
+1,Acne Treatment 609,This is a description for Acne Treatment 609.,21.78
+4,Exfoliating Scrub 610,This is a description for Exfoliating Scrub 610.,51.85
+2,Lip Balm 611,This is a description for Lip Balm 611.,7.32
+3,Lipstick 612,This is a description for Lipstick 612.,32.92
+1,Night Cream 613,This is a description for Night Cream 613.,95.24
+4,Hair Conditioner 614,This is a description for Hair Conditioner 614.,81.11
+3,Toner 615,This is a description for Toner 615.,20.76
+3,Aftershave Balm 616,This is a description for Aftershave Balm 616.,51.86
+1,Shampoo 617,This is a description for Shampoo 617.,83.63
+3,Pore Strips 618,This is a description for Pore Strips 618.,54.42
+5,Whitening Cream 619,This is a description for Whitening Cream 619.,76.47
+1,Peeling Gel 620,This is a description for Peeling Gel 620.,9.79
+3,Nail Polish 621,This is a description for Nail Polish 621.,56.72
+4,Bronzer 622,This is a description for Bronzer 622.,61.72
+2,Night Cream 623,This is a description for Night Cream 623.,20.61
+1,Moisturizer 624,This is a description for Moisturizer 624.,86.25
+4,Hair Conditioner 625,This is a description for Hair Conditioner 625.,5.75
+1,Whitening Cream 626,This is a description for Whitening Cream 626.,77.68
+1,Shampoo 627,This is a description for Shampoo 627.,68.05
+3,Facial Oil 628,This is a description for Facial Oil 628.,69.15
+5,Deodorant 629,This is a description for Deodorant 629.,54.12
+1,Bronzer 630,This is a description for Bronzer 630.,22.16
+3,Lip Balm 631,This is a description for Lip Balm 631.,8.09
+1,Eyeshadow 632,This is a description for Eyeshadow 632.,65.47
+4,Day Cream 633,This is a description for Day Cream 633.,13.67
+3,Mascara 634,This is a description for Mascara 634.,19.4
+5,Hair Serum 635,This is a description for Hair Serum 635.,65.79
+5,Facial Oil 636,This is a description for Facial Oil 636.,84.18
+3,Shampoo 637,This is a description for Shampoo 637.,60.92
+5,Pore Strips 638,This is a description for Pore Strips 638.,47.3
+2,Lipstick 639,This is a description for Lipstick 639.,90.48
+4,Eye Cream 640,This is a description for Eye Cream 640.,37.38
+4,Concealer 641,This is a description for Concealer 641.,30.03
+4,Setting Spray 642,This is a description for Setting Spray 642.,36.39
+3,Stretch Mark Cream 643,This is a description for Stretch Mark Cream 643.,32.05
+2,Hair Serum 644,This is a description for Hair Serum 644.,52.37
+5,Sunscreen 645,This is a description for Sunscreen 645.,51.47
+3,Moisturizer 646,This is a description for Moisturizer 646.,49.78
+1,Concealer 647,This is a description for Concealer 647.,59.93
+1,Eyeliner 648,This is a description for Eyeliner 648.,43.8
+3,Night Cream 649,This is a description for Night Cream 649.,15.68
+5,Eyeliner 650,This is a description for Eyeliner 650.,94.6
+4,Toner 651,This is a description for Toner 651.,46.37
+2,Exfoliating Scrub 652,This is a description for Exfoliating Scrub 652.,47.86
+3,Day Cream 653,This is a description for Day Cream 653.,14.23
+1,Eyeliner 654,This is a description for Eyeliner 654.,68.47
+3,Lipstick 655,This is a description for Lipstick 655.,61.61
+3,Exfoliating Scrub 656,This is a description for Exfoliating Scrub 656.,96.76
+4,Exfoliating Scrub 657,This is a description for Exfoliating Scrub 657.,15.7
+3,Hair Serum 658,This is a description for Hair Serum 658.,99.55
+2,Lip Balm 659,This is a description for Lip Balm 659.,46.36
+2,Brow Gel 660,This is a description for Brow Gel 660.,30.09
+4,Foot Cream 661,This is a description for Foot Cream 661.,47.1
+3,Bronzer 662,This is a description for Bronzer 662.,69.4
+1,Facial Mist 663,This is a description for Facial Mist 663.,6.99
+4,Setting Spray 664,This is a description for Setting Spray 664.,45.67
+1,Hand Cream 665,This is a description for Hand Cream 665.,50.12
+1,Concealer 666,This is a description for Concealer 666.,41.31
+5,Peeling Gel 667,This is a description for Peeling Gel 667.,96.71
+3,Bronzer 668,This is a description for Bronzer 668.,94.81
+1,Hydrating Gel 669,This is a description for Hydrating Gel 669.,88.53
+5,Whitening Cream 670,This is a description for Whitening Cream 670.,61.42
+5,Foundation 671,This is a description for Foundation 671.,73.87
+2,Eyeshadow 672,This is a description for Eyeshadow 672.,60.47
+3,Lip Gloss 673,This is a description for Lip Gloss 673.,45.24
+1,Night Cream 674,This is a description for Night Cream 674.,26.35
+4,Shampoo 675,This is a description for Shampoo 675.,68.26
+5,Setting Spray 676,This is a description for Setting Spray 676.,17.78
+1,Eye Cream 677,This is a description for Eye Cream 677.,27.36
+4,Facial Oil 678,This is a description for Facial Oil 678.,43.51
+3,Stretch Mark Cream 679,This is a description for Stretch Mark Cream 679.,30.85
+2,Shampoo 680,This is a description for Shampoo 680.,62.86
+2,Blush 681,This is a description for Blush 681.,62.55
+5,Nail Polish 682,This is a description for Nail Polish 682.,8.43
+3,Cleanser 683,This is a description for Cleanser 683.,46.47
+2,Body Scrub 684,This is a description for Body Scrub 684.,59.6
+1,Vitamin C Serum 685,This is a description for Vitamin C Serum 685.,94.71
+4,Cleanser 686,This is a description for Cleanser 686.,77.36
+5,Brow Gel 687,This is a description for Brow Gel 687.,53.99
+4,Hair Serum 688,This is a description for Hair Serum 688.,18.04
+2,Moisturizer 689,This is a description for Moisturizer 689.,23.98
+2,Pore Strips 690,This is a description for Pore Strips 690.,95.78
+3,Body Scrub 691,This is a description for Body Scrub 691.,36.46
+5,Eye Cream 692,This is a description for Eye Cream 692.,25.13
+4,Vitamin C Serum 693,This is a description for Vitamin C Serum 693.,82.49
+1,Facial Mist 694,This is a description for Facial Mist 694.,37.26
+5,Nail Polish 695,This is a description for Nail Polish 695.,6.49
+3,Makeup Remover 696,This is a description for Makeup Remover 696.,18.44
+5,Moisturizer 697,This is a description for Moisturizer 697.,91.98
+1,Hydrating Gel 698,This is a description for Hydrating Gel 698.,64.79
+4,Toner 699,This is a description for Toner 699.,5.77
+1,Eye Cream 700,This is a description for Eye Cream 700.,54.71
+1,Hair Serum 701,This is a description for Hair Serum 701.,71.31
+4,Stretch Mark Cream 702,This is a description for Stretch Mark Cream 702.,55.82
+1,Peeling Gel 703,This is a description for Peeling Gel 703.,57.04
+3,Concealer 704,This is a description for Concealer 704.,18.5
+4,Peeling Gel 705,This is a description for Peeling Gel 705.,16.3
+5,Hydrating Gel 706,This is a description for Hydrating Gel 706.,16.15
+3,Hair Conditioner 707,This is a description for Hair Conditioner 707.,97.54
+3,Day Cream 708,This is a description for Day Cream 708.,75.4
+3,Sunscreen 709,This is a description for Sunscreen 709.,24.15
+2,Highlighter 710,This is a description for Highlighter 710.,14.86
+1,Whitening Cream 711,This is a description for Whitening Cream 711.,67.52
+3,Body Lotion 712,This is a description for Body Lotion 712.,8.19
+5,Bronzer 713,This is a description for Bronzer 713.,53.45
+4,Day Cream 714,This is a description for Day Cream 714.,80.59
+5,Facial Mist 715,This is a description for Facial Mist 715.,31.25
+2,Eye Cream 716,This is a description for Eye Cream 716.,83.63
+4,Highlighter 717,This is a description for Highlighter 717.,62.18
+5,Body Lotion 718,This is a description for Body Lotion 718.,19.97
+2,Whitening Cream 719,This is a description for Whitening Cream 719.,69.01
+4,Setting Spray 720,This is a description for Setting Spray 720.,54.98
+2,Stretch Mark Cream 721,This is a description for Stretch Mark Cream 721.,16.96
+5,Aftershave Balm 722,This is a description for Aftershave Balm 722.,71.88
+1,Moisturizer 723,This is a description for Moisturizer 723.,91.33
+3,Bronzer 724,This is a description for Bronzer 724.,80.37
+1,Lip Balm 725,This is a description for Lip Balm 725.,88.89
+3,Aftershave Balm 726,This is a description for Aftershave Balm 726.,40.81
+4,Peeling Gel 727,This is a description for Peeling Gel 727.,53.02
+5,Facial Oil 728,This is a description for Facial Oil 728.,51.16
+5,Hair Conditioner 729,This is a description for Hair Conditioner 729.,44.62
+1,Hair Conditioner 730,This is a description for Hair Conditioner 730.,41.41
+1,Exfoliating Scrub 731,This is a description for Exfoliating Scrub 731.,12.03
+1,Shampoo 732,This is a description for Shampoo 732.,86.39
+1,Foot Cream 733,This is a description for Foot Cream 733.,25.13
+2,Bronzer 734,This is a description for Bronzer 734.,11.8
+5,Day Cream 735,This is a description for Day Cream 735.,61.27
+2,Night Cream 736,This is a description for Night Cream 736.,75.18
+4,Eyeshadow 737,This is a description for Eyeshadow 737.,50.41
+5,Hair Serum 738,This is a description for Hair Serum 738.,46.34
+3,Blush 739,This is a description for Blush 739.,74.86
+3,Lipstick 740,This is a description for Lipstick 740.,87.08
+1,Blush 741,This is a description for Blush 741.,9.02
+1,Vitamin C Serum 742,This is a description for Vitamin C Serum 742.,93.79
+2,Nail Polish 743,This is a description for Nail Polish 743.,41.86
+3,Setting Spray 744,This is a description for Setting Spray 744.,54.34
+2,Eye Cream 745,This is a description for Eye Cream 745.,60.39
+4,Hair Conditioner 746,This is a description for Hair Conditioner 746.,28.85
+3,Exfoliating Scrub 747,This is a description for Exfoliating Scrub 747.,87.92
+1,Makeup Remover 748,This is a description for Makeup Remover 748.,50.25
+2,Face Wash 749,This is a description for Face Wash 749.,63.31
+4,Face Wash 750,This is a description for Face Wash 750.,24.26
+3,Brow Gel 751,This is a description for Brow Gel 751.,83.39
+1,Highlighter 752,This is a description for Highlighter 752.,67.08
+4,Hair Conditioner 753,This is a description for Hair Conditioner 753.,54.91
+5,Toner 754,This is a description for Toner 754.,95.03
+3,Body Lotion 755,This is a description for Body Lotion 755.,8.75
+5,Blush 756,This is a description for Blush 756.,54.76
+3,Stretch Mark Cream 757,This is a description for Stretch Mark Cream 757.,33.66
+5,Shampoo 758,This is a description for Shampoo 758.,20.25
+1,Serum 759,This is a description for Serum 759.,84.06
+4,Day Cream 760,This is a description for Day Cream 760.,89.76
+4,Whitening Cream 761,This is a description for Whitening Cream 761.,95.41
+4,Peeling Gel 762,This is a description for Peeling Gel 762.,90.71
+2,Moisturizer 763,This is a description for Moisturizer 763.,27.51
+2,Stretch Mark Cream 764,This is a description for Stretch Mark Cream 764.,25.78
+4,Lipstick 765,This is a description for Lipstick 765.,20.37
+4,Peeling Gel 766,This is a description for Peeling Gel 766.,43.71
+5,Setting Spray 767,This is a description for Setting Spray 767.,39.6
+5,Eyeshadow 768,This is a description for Eyeshadow 768.,57.99
+5,Bronzer 769,This is a description for Bronzer 769.,46.19
+1,Facial Oil 770,This is a description for Facial Oil 770.,94.65
+2,Bronzer 771,This is a description for Bronzer 771.,15.39
+5,Setting Spray 772,This is a description for Setting Spray 772.,65.84
+3,Clay Mask 773,This is a description for Clay Mask 773.,74.31
+3,Stretch Mark Cream 774,This is a description for Stretch Mark Cream 774.,46.89
+3,Foundation 775,This is a description for Foundation 775.,99.62
+2,Acne Treatment 776,This is a description for Acne Treatment 776.,5.22
+5,Bronzer 777,This is a description for Bronzer 777.,18.7
+4,Lipstick 778,This is a description for Lipstick 778.,33.65
+5,Hydrating Gel 779,This is a description for Hydrating Gel 779.,10.14
+3,Eyeshadow 780,This is a description for Eyeshadow 780.,87.37
+1,Shampoo 781,This is a description for Shampoo 781.,27.14
+5,Nail Polish 782,This is a description for Nail Polish 782.,69.94
+3,Foundation 783,This is a description for Foundation 783.,87.91
+1,Eyeliner 784,This is a description for Eyeliner 784.,85.76
+5,Foot Cream 785,This is a description for Foot Cream 785.,51.85
+2,Stretch Mark Cream 786,This is a description for Stretch Mark Cream 786.,96.6
+1,Whitening Cream 787,This is a description for Whitening Cream 787.,44.37
+4,Vitamin C Serum 788,This is a description for Vitamin C Serum 788.,66.72
+2,Facial Mist 789,This is a description for Facial Mist 789.,11.82
+1,Makeup Remover 790,This is a description for Makeup Remover 790.,14.79
+1,Setting Spray 791,This is a description for Setting Spray 791.,93.37
+2,Makeup Remover 792,This is a description for Makeup Remover 792.,52.47
+1,Makeup Remover 793,This is a description for Makeup Remover 793.,82.3
+4,Bronzer 794,This is a description for Bronzer 794.,40.69
+1,Toner 795,This is a description for Toner 795.,49.47
+3,Mascara 796,This is a description for Mascara 796.,52.79
+4,Blush 797,This is a description for Blush 797.,18.0
+5,Blush 798,This is a description for Blush 798.,96.27
+3,Blush 799,This is a description for Blush 799.,43.17
+2,Stretch Mark Cream 800,This is a description for Stretch Mark Cream 800.,82.28
+1,Whitening Cream 801,This is a description for Whitening Cream 801.,24.75
+5,Lip Balm 802,This is a description for Lip Balm 802.,16.12
+5,Vitamin C Serum 803,This is a description for Vitamin C Serum 803.,80.67
+5,Hair Conditioner 804,This is a description for Hair Conditioner 804.,6.25
+4,Shampoo 805,This is a description for Shampoo 805.,28.36
+5,Moisturizer 806,This is a description for Moisturizer 806.,82.79
+3,Day Cream 807,This is a description for Day Cream 807.,39.74
+5,Hydrating Gel 808,This is a description for Hydrating Gel 808.,19.06
+4,Cleanser 809,This is a description for Cleanser 809.,88.9
+4,Aftershave Balm 810,This is a description for Aftershave Balm 810.,92.69
+2,Eyeshadow 811,This is a description for Eyeshadow 811.,93.45
+4,Serum 812,This is a description for Serum 812.,87.21
+4,Shampoo 813,This is a description for Shampoo 813.,68.04
+1,Day Cream 814,This is a description for Day Cream 814.,57.74
+3,Nail Polish 815,This is a description for Nail Polish 815.,88.21
+1,Sunscreen 816,This is a description for Sunscreen 816.,17.98
+4,Mascara 817,This is a description for Mascara 817.,6.76
+4,Brow Gel 818,This is a description for Brow Gel 818.,39.56
+3,Eye Cream 819,This is a description for Eye Cream 819.,94.91
+3,Bronzer 820,This is a description for Bronzer 820.,70.17
+5,Brow Gel 821,This is a description for Brow Gel 821.,46.65
+3,Exfoliating Scrub 822,This is a description for Exfoliating Scrub 822.,94.25
+2,Shampoo 823,This is a description for Shampoo 823.,93.54
+4,Cleanser 824,This is a description for Cleanser 824.,71.0
+4,Clay Mask 825,This is a description for Clay Mask 825.,7.89
+3,Eye Cream 826,This is a description for Eye Cream 826.,77.3
+2,Lip Balm 827,This is a description for Lip Balm 827.,9.6
+4,Whitening Cream 828,This is a description for Whitening Cream 828.,36.26
+5,Body Lotion 829,This is a description for Body Lotion 829.,96.91
+5,Pore Strips 830,This is a description for Pore Strips 830.,93.22
+2,Body Scrub 831,This is a description for Body Scrub 831.,24.44
+5,Eyeshadow 832,This is a description for Eyeshadow 832.,29.91
+5,Facial Mist 833,This is a description for Facial Mist 833.,67.87
+2,Sunscreen 834,This is a description for Sunscreen 834.,43.25
+5,Day Cream 835,This is a description for Day Cream 835.,19.65
+3,Cleanser 836,This is a description for Cleanser 836.,30.75
+1,Face Wash 837,This is a description for Face Wash 837.,63.0
+4,Acne Treatment 838,This is a description for Acne Treatment 838.,21.5
+3,Bronzer 839,This is a description for Bronzer 839.,99.86
+5,Hand Cream 840,This is a description for Hand Cream 840.,11.78
+5,Peeling Gel 841,This is a description for Peeling Gel 841.,18.1
+4,Hand Cream 842,This is a description for Hand Cream 842.,79.52
+5,Highlighter 843,This is a description for Highlighter 843.,90.45
+1,Bronzer 844,This is a description for Bronzer 844.,80.98
+2,Lip Gloss 845,This is a description for Lip Gloss 845.,67.23
+1,Brow Gel 846,This is a description for Brow Gel 846.,58.97
+4,Acne Treatment 847,This is a description for Acne Treatment 847.,70.01
+3,Eye Cream 848,This is a description for Eye Cream 848.,25.32
+4,Foot Cream 849,This is a description for Foot Cream 849.,57.51
+3,Bronzer 850,This is a description for Bronzer 850.,61.37
+2,Peeling Gel 851,This is a description for Peeling Gel 851.,44.48
+2,Clay Mask 852,This is a description for Clay Mask 852.,26.68
+2,Blush 853,This is a description for Blush 853.,19.84
+1,Shampoo 854,This is a description for Shampoo 854.,73.5
+4,Hair Conditioner 855,This is a description for Hair Conditioner 855.,36.78
+3,Foundation 856,This is a description for Foundation 856.,21.87
+3,Makeup Remover 857,This is a description for Makeup Remover 857.,54.82
+4,Stretch Mark Cream 858,This is a description for Stretch Mark Cream 858.,34.86
+5,Eyeliner 859,This is a description for Eyeliner 859.,97.29
+1,Eyeshadow 860,This is a description for Eyeshadow 860.,45.71
+3,Night Cream 861,This is a description for Night Cream 861.,91.61
+4,Mascara 862,This is a description for Mascara 862.,52.05
+2,Lipstick 863,This is a description for Lipstick 863.,75.11
+5,Facial Mist 864,This is a description for Facial Mist 864.,20.9
+1,Hydrating Gel 865,This is a description for Hydrating Gel 865.,70.8
+5,Lipstick 866,This is a description for Lipstick 866.,58.71
+1,Eye Cream 867,This is a description for Eye Cream 867.,48.27
+3,Mascara 868,This is a description for Mascara 868.,86.31
+3,Exfoliating Scrub 869,This is a description for Exfoliating Scrub 869.,90.79
+2,Lipstick 870,This is a description for Lipstick 870.,78.68
+3,Shampoo 871,This is a description for Shampoo 871.,71.18
+2,Makeup Remover 872,This is a description for Makeup Remover 872.,25.8
+1,Exfoliating Scrub 873,This is a description for Exfoliating Scrub 873.,77.66
+3,Brow Gel 874,This is a description for Brow Gel 874.,12.12
+1,Vitamin C Serum 875,This is a description for Vitamin C Serum 875.,50.28
+4,Eyeshadow 876,This is a description for Eyeshadow 876.,48.53
+2,Eye Cream 877,This is a description for Eye Cream 877.,78.31
+3,Body Scrub 878,This is a description for Body Scrub 878.,24.87
+5,Exfoliating Scrub 879,This is a description for Exfoliating Scrub 879.,86.75
+2,Eyeliner 880,This is a description for Eyeliner 880.,35.08
+1,Hydrating Gel 881,This is a description for Hydrating Gel 881.,38.95
+3,Facial Oil 882,This is a description for Facial Oil 882.,61.58
+5,Brow Gel 883,This is a description for Brow Gel 883.,88.37
+3,Concealer 884,This is a description for Concealer 884.,48.42
+2,Foundation 885,This is a description for Foundation 885.,39.6
+2,Foundation 886,This is a description for Foundation 886.,18.95
+5,Moisturizer 887,This is a description for Moisturizer 887.,52.59
+3,Foundation 888,This is a description for Foundation 888.,49.81
+3,Brow Gel 889,This is a description for Brow Gel 889.,54.13
+2,Exfoliating Scrub 890,This is a description for Exfoliating Scrub 890.,29.65
+2,Eyeshadow 891,This is a description for Eyeshadow 891.,41.62
+1,Facial Oil 892,This is a description for Facial Oil 892.,52.59
+1,Body Lotion 893,This is a description for Body Lotion 893.,46.26
+1,Eyeshadow 894,This is a description for Eyeshadow 894.,15.68
+5,Hair Conditioner 895,This is a description for Hair Conditioner 895.,93.16
+1,Bronzer 896,This is a description for Bronzer 896.,12.11
+4,Exfoliating Scrub 897,This is a description for Exfoliating Scrub 897.,20.21
+3,Day Cream 898,This is a description for Day Cream 898.,26.39
+4,Cleanser 899,This is a description for Cleanser 899.,97.09
+1,Hydrating Gel 900,This is a description for Hydrating Gel 900.,7.22
+4,Pore Strips 901,This is a description for Pore Strips 901.,62.64
+2,Eyeshadow 902,This is a description for Eyeshadow 902.,72.69
+1,Deodorant 903,This is a description for Deodorant 903.,28.31
+3,Hair Conditioner 904,This is a description for Hair Conditioner 904.,69.75
+2,Moisturizer 905,This is a description for Moisturizer 905.,60.93
+1,Peeling Gel 906,This is a description for Peeling Gel 906.,94.21
+2,Foundation 907,This is a description for Foundation 907.,87.4
+3,Sunscreen 908,This is a description for Sunscreen 908.,94.12
+1,Eyeshadow 909,This is a description for Eyeshadow 909.,48.1
+2,Setting Spray 910,This is a description for Setting Spray 910.,95.2
+2,Deodorant 911,This is a description for Deodorant 911.,74.54
+4,Peeling Gel 912,This is a description for Peeling Gel 912.,13.59
+5,Deodorant 913,This is a description for Deodorant 913.,97.81
+2,Acne Treatment 914,This is a description for Acne Treatment 914.,36.72
+5,Hand Cream 915,This is a description for Hand Cream 915.,66.19
+5,Moisturizer 916,This is a description for Moisturizer 916.,42.51
+5,Exfoliating Scrub 917,This is a description for Exfoliating Scrub 917.,43.72
+5,Eye Cream 918,This is a description for Eye Cream 918.,19.09
+2,Body Lotion 919,This is a description for Body Lotion 919.,41.17
+2,Makeup Remover 920,This is a description for Makeup Remover 920.,48.88
+1,Hair Conditioner 921,This is a description for Hair Conditioner 921.,66.27
+1,Lipstick 922,This is a description for Lipstick 922.,44.65
+3,Exfoliating Scrub 923,This is a description for Exfoliating Scrub 923.,22.33
+5,Facial Oil 924,This is a description for Facial Oil 924.,10.81
+4,Body Lotion 925,This is a description for Body Lotion 925.,59.09
+3,Lip Gloss 926,This is a description for Lip Gloss 926.,45.19
+4,Blush 927,This is a description for Blush 927.,47.42
+1,Stretch Mark Cream 928,This is a description for Stretch Mark Cream 928.,97.3
+3,Acne Treatment 929,This is a description for Acne Treatment 929.,56.62
+1,Hand Cream 930,This is a description for Hand Cream 930.,45.5
+3,Setting Spray 931,This is a description for Setting Spray 931.,74.24
+1,Toner 932,This is a description for Toner 932.,20.63
+2,Day Cream 933,This is a description for Day Cream 933.,97.46
+1,Face Wash 934,This is a description for Face Wash 934.,44.19
+3,Blush 935,This is a description for Blush 935.,16.32
+5,Brow Gel 936,This is a description for Brow Gel 936.,60.02
+5,Blush 937,This is a description for Blush 937.,49.33
+4,Highlighter 938,This is a description for Highlighter 938.,73.0
+4,Setting Spray 939,This is a description for Setting Spray 939.,15.55
+5,Pore Strips 940,This is a description for Pore Strips 940.,65.88
+4,Serum 941,This is a description for Serum 941.,33.57
+2,Deodorant 942,This is a description for Deodorant 942.,67.69
+2,Day Cream 943,This is a description for Day Cream 943.,86.44
+4,Body Lotion 944,This is a description for Body Lotion 944.,93.05
+3,Concealer 945,This is a description for Concealer 945.,95.8
+5,Makeup Remover 946,This is a description for Makeup Remover 946.,46.18
+1,Body Scrub 947,This is a description for Body Scrub 947.,77.34
+1,Lip Balm 948,This is a description for Lip Balm 948.,55.95
+2,Cleanser 949,This is a description for Cleanser 949.,28.77
+4,Facial Mist 950,This is a description for Facial Mist 950.,16.57
+5,Cleanser 951,This is a description for Cleanser 951.,33.24
+2,Concealer 952,This is a description for Concealer 952.,6.14
+4,Toner 953,This is a description for Toner 953.,79.27
+3,Day Cream 954,This is a description for Day Cream 954.,98.11
+1,Whitening Cream 955,This is a description for Whitening Cream 955.,96.99
+4,Clay Mask 956,This is a description for Clay Mask 956.,38.87
+4,Eyeshadow 957,This is a description for Eyeshadow 957.,29.74
+4,Sunscreen 958,This is a description for Sunscreen 958.,94.77
+1,Mascara 959,This is a description for Mascara 959.,35.32
+3,Aftershave Balm 960,This is a description for Aftershave Balm 960.,73.45
+5,Setting Spray 961,This is a description for Setting Spray 961.,52.84
+4,Serum 962,This is a description for Serum 962.,48.31
+3,Lip Gloss 963,This is a description for Lip Gloss 963.,7.27
+2,Pore Strips 964,This is a description for Pore Strips 964.,99.35
+3,Body Scrub 965,This is a description for Body Scrub 965.,15.68
+2,Bronzer 966,This is a description for Bronzer 966.,82.81
+2,Facial Oil 967,This is a description for Facial Oil 967.,66.19
+1,Blush 968,This is a description for Blush 968.,22.32
+1,Makeup Remover 969,This is a description for Makeup Remover 969.,82.46
+2,Serum 970,This is a description for Serum 970.,51.6
+3,Foot Cream 971,This is a description for Foot Cream 971.,58.0
+2,Body Lotion 972,This is a description for Body Lotion 972.,28.85
+1,Acne Treatment 973,This is a description for Acne Treatment 973.,91.35
+2,Peeling Gel 974,This is a description for Peeling Gel 974.,79.54
+2,Night Cream 975,This is a description for Night Cream 975.,86.4
+5,Serum 976,This is a description for Serum 976.,89.17
+5,Eyeshadow 977,This is a description for Eyeshadow 977.,10.78
+3,Bronzer 978,This is a description for Bronzer 978.,77.55
+4,Highlighter 979,This is a description for Highlighter 979.,16.46
+5,Sunscreen 980,This is a description for Sunscreen 980.,80.35
+4,Toner 981,This is a description for Toner 981.,54.69
+4,Whitening Cream 982,This is a description for Whitening Cream 982.,65.33
+3,Eyeshadow 983,This is a description for Eyeshadow 983.,30.09
+5,Pore Strips 984,This is a description for Pore Strips 984.,62.26
+2,Foundation 985,This is a description for Foundation 985.,13.24
+2,Body Scrub 986,This is a description for Body Scrub 986.,49.84
+5,Hair Conditioner 987,This is a description for Hair Conditioner 987.,65.74
+5,Bronzer 988,This is a description for Bronzer 988.,87.6
+5,Eye Cream 989,This is a description for Eye Cream 989.,44.95
+4,Hydrating Gel 990,This is a description for Hydrating Gel 990.,84.64
+3,Peeling Gel 991,This is a description for Peeling Gel 991.,86.51
+5,Day Cream 992,This is a description for Day Cream 992.,15.17
+5,Pore Strips 993,This is a description for Pore Strips 993.,36.39
+2,Shampoo 994,This is a description for Shampoo 994.,77.12
+5,Stretch Mark Cream 995,This is a description for Stretch Mark Cream 995.,53.24
+4,Sunscreen 996,This is a description for Sunscreen 996.,54.59
+5,Day Cream 997,This is a description for Day Cream 997.,46.96
+1,Hair Conditioner 998,This is a description for Hair Conditioner 998.,33.99
+4,Concealer 999,This is a description for Concealer 999.,76.02
+2,Nail Polish 1000,This is a description for Nail Polish 1000.,80.89
